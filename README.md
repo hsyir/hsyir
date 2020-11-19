@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hsyir alt=hsyir /> <b>Since november 2020</b></p>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hsyir)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
@@ -41,3 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/hsy1985)](https://t.me/hsy1985)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hosseinyaghmaee@gmail.com)](mailto:hosseinyaghmaee@gmail.com)
+
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=hsyir alt=hsyir /> <b>Since november 2020</b></p>

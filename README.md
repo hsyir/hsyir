@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src=https://komarev.com/ghpvc/?username=imanghafoori1 alt=imanghafoori1 /
+
 <!--
 **hsyir/hsyir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

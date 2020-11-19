@@ -3,7 +3,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hsyir alt=hsyir /> <b>Since november 2020</b></p>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hsyir)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsyir&layout=compact)](https://github.com/hsyir/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsyir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hsyir/hsyir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

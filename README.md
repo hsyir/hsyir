@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=hsyir&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![github stats](https://github-readme-stats.vercel.app/api?username=hsyir)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsyir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>

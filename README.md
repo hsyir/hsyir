@@ -1,6 +1,5 @@
-# Hossein Yaghmaee
-## حسین یغمایی
-### Developer
+# Hossein Yaghmaee (حسین یغمایی)
+### Developer (توسعه دهنده نرم افزار)
 
 
  📫 How to reach me:

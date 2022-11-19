@@ -1,27 +1,12 @@
 ### Hi there 👋
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=hsyir)](https://github.com/anuraghazra/github-readme-stats) 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsyir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+## Get in touch with me 
+- 📫 How to reach me: 
+- [hsy.ir](https://hsy.ir)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/hsy1985)](https://t.me/hsy1985)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hosseinyaghmaee@gmail.com)](mailto:hosseinyaghmaee@gmail.com)
 
-<!--
-**hsyir/hsyir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 >My skills</h2>
 
 <p >
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -35,12 +20,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
-
-
-## Get in touch with me 
-- 📫 How to reach me: 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/hsy1985)](https://t.me/hsy1985)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=hosseinyaghmaee@gmail.com)](mailto:hosseinyaghmaee@gmail.com)
-
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hsyir alt=hsyir /> <b>Since november 2020</b></p>

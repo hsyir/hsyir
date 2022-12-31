@@ -1,6 +1,6 @@
 # Hossein Yaghmaee (حسین یغمایی)
-### Developer (توسعه دهنده نرم افزار)
-
+### Software Developer (توسعه دهنده نرم افزار)
+#### Full Stack Web Developer
 
  📫 How to reach me:
 
